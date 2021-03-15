@@ -1,0 +1,1 @@
+# Previsao_de_casos_covid_em_Fortaleza_com_Arima_statsmodel
